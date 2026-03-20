@@ -40,7 +40,9 @@ Smart Canteen is a robust, full-stack web application designed to digitize cafet
 
 ## 📸 Project Interface
 
-![Smart Canteen Interface](./client/src/assets/Ui.png)
+![Smart Canteen Interface]
+<img width="1920" height="964" alt="Screenshot (764)" src="https://github.com/user-attachments/assets/20ddfdba-b40b-45b8-84f9-c7d1e39e9906" />
+
 
 ---
 
