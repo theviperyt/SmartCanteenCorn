@@ -108,4 +108,4 @@ npm run preview
 ---
 
 ## Author
-**Subham Banerjee**
+**Arnab Ghosh**

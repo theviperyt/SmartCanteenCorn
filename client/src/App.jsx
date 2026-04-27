@@ -29,7 +29,7 @@ const queryClient = new QueryClient({
 });
 
 const PageLoader = () => (
-  <div className="min-h-screen flex items-center justify-center bg-[#0f1117]">
+  <div className="min-h-screen flex items-center justify-center bg-background">
     <Spinner size="lg" />
   </div>
 );
@@ -43,14 +43,14 @@ export default function App() {
             position="top-right"
             toastOptions={{
               style: {
-                background: '#1a1d27',
-                color: '#f1f5f9',
-                border: '1px solid #2d3148',
+                background: 'var(--card)',
+                color: 'var(--card-foreground)',
+                border: '1px solid var(--border)',
                 borderRadius: '12px',
                 fontSize: '14px',
               },
-              success: { iconTheme: { primary: '#10b981', secondary: '#0f1117' } },
-              error: { iconTheme: { primary: '#ef4444', secondary: '#0f1117' } },
+              success: { iconTheme: { primary: 'var(--primary)', secondary: 'var(--background)' } },
+              error: { iconTheme: { primary: 'var(--destructive)', secondary: 'var(--background)' } },
             }}
           />
           <Suspense fallback={<PageLoader />}>

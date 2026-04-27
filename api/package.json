@@ -9,7 +9,7 @@
     "dev": "nodemon src/server.js"
   },
   "keywords": [],
-  "author": "Subham Banerjee",
+  "author": "Arnab Ghosh",
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {

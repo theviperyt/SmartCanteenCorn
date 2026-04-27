@@ -23,7 +23,7 @@
     "framer-motion",
     "jwt-authentication"
   ],
-  "author": "",
+  "author": "Arnab Ghosh",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
