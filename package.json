@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tfxpanda0p/smart-canteen-cron.git"
+    "url": "git+https://github.com/theviperyt/canteen-system-corn-job.git"
   },
   "keywords": [
     "react",
@@ -26,10 +26,7 @@
   "author": "Arnab Ghosh",
   "license": "ISC",
   "type": "commonjs",
-  "bugs": {
-    "url": "https://github.com/tfxpanda0p/smart-canteen-cron/issues"
-  },
-  "homepage": "https://github.com/tfxpanda0p/smart-canteen-cron#readme",
+  
   "devDependencies": {
     "concurrently": "^9.2.1"
   }
